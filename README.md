@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm JiAe Ha 👋
+---
+
+<h3 align="center"> ✨Tech Stack ✨</h3>
+
+
+
 
 <!--
 **hanuirangroovy/hanuirangroovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
