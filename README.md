@@ -11,9 +11,14 @@ Techs that I've used at least once <br><br>
 |**ETC**| ![GIT](https://img.shields.io/badge/-GIT-F05032?&logo=GIT&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?&logo=Jira&logoColor=white)
 </p>
 
+<h3 align=center> BOJ tier /><br /><br />
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)
+
+</h3>
+
 <h3 align=center> GitHub Stats<br /><br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuirangroovy&theme=buefy&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuirangroovy&theme=buefy&show_icons=true)<br /><br />
 
 </h3>
 
