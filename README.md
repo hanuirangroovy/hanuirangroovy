@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB2D9,4000:B5B2FF&height=300&section=header&text=Hi,%20I'm%20JiAe!&fontColor=FFFFFF&fontSize=90)
 
-<h3 align="center"> ✨Tech Stack ✨</h3>
+<h3 align="center"> ✨ Tech Stack ✨</h3>
 <p align="center">
 Techs that I've used at least once <br><br>
 
@@ -12,23 +12,18 @@ Techs that I've used at least once <br><br>
 </p>
 
 
-<h3 align=center> BOJ tier <br /><br />
+<h3 align=center> 🏅 Baekjoon solved rank 🏅 <br /><br />
  
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)
 
 </h3>
 
-<h3 align=center> GitHub Stats<br /><br />
+<h3 align=center> 📚 GitHub Stats 📚 <br /><br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuirangroovy&theme=buefy&show_icons=true)<br /><br />
 
 </h3>
 
- 
-<!-- <h3 align="center"> BOJ tier <br /><br />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha/)
-![JiAe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuirangroovy&theme=buefy&show_icons=true)
-</h3> -->
 
  
 <!--
