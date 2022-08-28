@@ -14,7 +14,9 @@ Techs that I've used at least once <br>
 
 <h3 align=center> 🏅 Baekjoon solved rank 🏅 <br /><br />
  
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)]](https://solved.ac/jiaiha)
+ 
 
 </h3>
 
