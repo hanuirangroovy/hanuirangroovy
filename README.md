@@ -15,7 +15,11 @@ Techs that I've used at least once <br><br>
 
 ![JiAe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuirangroovy&theme=buefy&show_icons=true)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)
+<h3 align=center> GitHub Stats<br /><br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuirangroovy&theme=buefy&show_icons=true)
+
+</h3>
 
  
 <!-- <h3 align="center"> BOJ tier <br /><br />
