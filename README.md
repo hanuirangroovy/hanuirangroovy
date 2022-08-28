@@ -2,7 +2,7 @@
 
 <h3 align="center"> ✨ Tech Stack ✨</h3>
 <p align="center">
-Techs that I've used at least once <br><br>
+Techs that I've used at least once <br>
 
 |||
 |---|---------|
@@ -14,7 +14,7 @@ Techs that I've used at least once <br><br>
 
 <h3 align=center> 🏅 Baekjoon solved rank 🏅 <br /><br />
  
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)]](https://solved.ac/jiaiha)
 
 </h3>
 
