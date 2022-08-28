@@ -14,9 +14,9 @@ Techs that I've used at least once <br><br>
 
 
 
-<h3 align="center"> BOJ tier <br />
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jiaiha)(https://solved.ac/jiaiha)
+<h3 align="center"> BOJ tier <br /><br />
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jiaiha)] (https://solved.ac/jiaiha)
 </h3>
  
 <!--
