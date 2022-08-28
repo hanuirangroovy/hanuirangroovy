@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB2D9,4000:B5B2FF&height=300&section=header&text=Hi,%20I'm%20JiAe!&fontColor=FFFFFF&fontSize=90)
 ![JiAe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuirangroovy&theme=buefy&show_icons=true)
 </h3>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha/)
+![![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha/)
 
 <h3 align="center"> ✨Tech Stack ✨</h3>
 <p align="center">
