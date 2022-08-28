@@ -13,8 +13,7 @@ Techs that I've used at least once <br><br>
 </p>
 
 <h3 align="center">BOJ tier</h3>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha/)
   
 <!--
 **hanuirangroovy/hanuirangroovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
