@@ -14,10 +14,11 @@ Techs that I've used at least once <br><br>
 
 
 
-<!-- <h3 align="center"> BOJ tier <br /><br />
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha)
-</h3> -->
+<h3 align="center"> BOJ tier <br /><br />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha/)
+![JiAe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuirangroovy&theme=buefy&show_icons=true)
+</h3>
+
  
 <!--
 **hanuirangroovy/hanuirangroovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
