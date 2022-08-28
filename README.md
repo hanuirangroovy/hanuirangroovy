@@ -12,7 +12,9 @@ Techs that I've used at least once <br><br>
 |**ETC**| ![GIT](https://img.shields.io/badge/-GIT-F05032?&logo=GIT&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?&logo=Jira&logoColor=white)
 </p>
 
-<h3 align="center"> BOJ tier
+
+
+<h3 align="center"> BOJ tier <br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha)
 </h3>
  
