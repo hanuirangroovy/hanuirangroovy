@@ -11,6 +11,12 @@ Techs that I've used at least once <br><br>
 |**Frontend**| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue_js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=white)  ![Semantic UI React](https://img.shields.io/badge/-Semantic_UI_React-35BDB2?&logo=SemanticUIReact&logoColor=white)|
 |**ETC**| ![GIT](https://img.shields.io/badge/-GIT-F05032?&logo=GIT&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?&logo=Jira&logoColor=white)
 </p>
+
+<h3 align="center">BOJ tier</h3>
+<p align="center">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiaiha)](https://solved.ac/jiaiha)
+</p>
   
 <!--
 **hanuirangroovy/hanuirangroovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
