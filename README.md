@@ -14,7 +14,9 @@ Techs that I've used at least once <br>
 
 
 <h3 align="center"> 💻 Experience 💻</h3>
-- <strong>SSAFY</strong> - Samsung SW Academy For Youth 6th (Jul 2021 ~ Jun 2022)
+<p align="center">
+● <strong>SSAFY</strong> - Samsung SW Academy For Youth 6th (Jul 2021 ~ Jun 2022)
+ </p>
 
 
 <h3 align=center> 🏅 Baekjoon solved rank 🏅 <br /><br />
